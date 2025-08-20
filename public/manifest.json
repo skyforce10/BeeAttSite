@@ -1,0 +1,25 @@
+{
+  "short_name": "Bee Attendance",              
+  "name": "Bee Attendance",                    
+  "icons": [
+    {
+      "src": "fingerprint 64x64.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"                   
+    },
+    {
+      "src": "fingerprint 128x128.png",
+      "type": "image/png",
+      "sizes": "192x192"                        
+    },
+    {
+      "src": "fingerprint 512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"                       
+    }
+  ],
+  "start_url": "./?source=pwa",                
+  "display": "standalone",                     
+  "theme_color": "#000000",                     
+  "background_color": "#ffffff"                
+}
